@@ -1,5 +1,5 @@
 # Proxmox LXC templates
-Proxmox LXC Templates using DAB
+Proxmox LXC Templates using Debian Appliance Builder (DAB)
 
 ### Create a minimal Debian Jessie Container Template:
 
